@@ -8,7 +8,7 @@
 - 📫 How to reach me **lidaoyuan2816@gmail.com**
 
 
-![Intro](./212750999-42ff8a64-dad8-4772-9648-849968543991.gif)
+<img src="./212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Intro" width="400">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
