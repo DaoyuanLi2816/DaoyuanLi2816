@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **lidaoyuan2816@gmail.com**
 
+
+![Intro](./212750999-42ff8a64-dad8-4772-9648-849968543991.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daoyuan-li-frank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daoyuan-li-frank" height="30" width="40" /></a>
