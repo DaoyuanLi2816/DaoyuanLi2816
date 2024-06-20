@@ -1,9 +1,5 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Daoyuan Li</h1>
-<h3 align="center">PhD student @ UMN</h3>
-
-
 
 - 📫 How to reach me **lidaoyuan2816@gmail.com**
 
