@@ -10,7 +10,4 @@
   <a href="https://linkedin.com/in/daoyuan-li-frank" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daoyuan-li-frank" width="40" height="30" />
   </a>
-  <a href="https://kaggle.com/distiller" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="distiller" width="40" height="30" />
-  </a>
 </p>
