@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./github-header-banner-umn.png)
 
 - 📫 How to reach me **lidaoyuan2816@gmail.com**
 
